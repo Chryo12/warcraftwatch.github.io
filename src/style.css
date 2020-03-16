@@ -1,6 +1,7 @@
 body {
   background-color: lightblue;
-  
+  font-family: monospace;
+  cursor: crosshair;
 }
 
 ul {
