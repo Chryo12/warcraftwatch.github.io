@@ -1,1 +1,1 @@
-window.alert("This website is under construction");
+console.log("Warcraft");
