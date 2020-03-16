@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  font-family: monospace;
+  font-family: sans-serif;
   cursor: crosshair;
   text-align: left;
 }
@@ -9,7 +9,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: visible;
   background-color: #333;
 }
 
@@ -18,7 +18,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: flex;
   color: blue;
   text-align: center;
   padding: 14px 16px;
