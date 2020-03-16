@@ -1,1 +1,1 @@
-This is a new website i am working on in my spare time.
+welcome to Warcraft Watch the site is currently in development.
